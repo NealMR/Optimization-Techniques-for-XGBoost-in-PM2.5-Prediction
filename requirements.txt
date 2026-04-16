@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+xgboost
+joblib
+requests
+plotly
+optuna
+scikit-learn
+pydeck
+python-dotenv
